@@ -27,9 +27,10 @@
   <a href="https://linkedin.com/in/cabduali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="personal-portfolio-3feq2180w-cabdualis-projects.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
+<a href="https://personal-portfolio-3feq2180w-cabdualis-projects.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" />
+</a>
+
 </div>
 
 <hr/>
