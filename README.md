@@ -8,19 +8,14 @@
 
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-  <div style="flex: 1; padding: 10px;">
-    🔭 I’m currently working on **various projects involving React, machine learning, and web development**<br><br>
-    🌱 I’m currently learning **advanced React.js, Tailwind CSS, and machine learning algorithms**<br><br>
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra-abdi&label=Profile%20views&color=0e75b6&style=flat" alt="abdala"/> </p>
+
+-🔭 I’m currently working on Mern stack projects<br>
+    🌱 I’m currently learning  machine learning algorithm<br><br>
     💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/cabduali/cabduali/issues)**<br><br>
     ⚡ Fun Fact: The first programming language, Fortran, was developed in the 1950s and is still used today for scientific and engineering calculations!
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://github.com/user-attachments/assets/06381427-6663-4f98-b4e2-6c5af163daee" alt="Fun Image" style="max-width: 100%; height: auto;">
-  </div>
-</div>
-
-
 <div align="center"> 
   <a href="mailto:cabduali@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
