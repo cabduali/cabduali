@@ -16,8 +16,7 @@
 
 💬 Ask me about **JavaScript, Python, React, or anything [here](https://github.com/cabduali/cabduali/issues)**
 
-⚡ Fun fact **In the future, coding and technical literacy may be nearly as essential to daily life as literacy is now. The United States has a literacy rate of 99%. Imagine 99% of the population knowing how to code. While it may sound difficult, coding can be easier than writing for students who struggle with language mechanics. In 2020, MIT neuroscientists found that interpreting code activates a general-purpose brain network, but not language-processing centers.**
-
+⚡ Fun Fact: The first programming language, Fortran, was developed in the 1950s and is still used today for scientific and engineering calculations!
 </div>
 
 <div align="center"> 
