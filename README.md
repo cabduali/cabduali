@@ -7,6 +7,10 @@
 <h3 align="center">A passionate software developer from Somalia 🌍</h3>
 
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cabduali&label=Profile%20views&color=0e75b6&style=flat" alt="cabduali" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabduali" alt="cabduali" /></a> </p>
+
 
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -36,8 +40,4 @@
     <img src="https://skillicons.dev/icons?i=python,java,typescript,git,flask,express,sql" /><br>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cabduali&label=Profile%20views&color=0e75b6&style=flat" alt="cabduali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabduali" alt="cabduali" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shuuriyejr" target="blank"><img src="https://img.shields.io/twitter/follow/shuuriyejr?logo=twitter&style=for-the-badge" alt="shuuriyejr" /></a> </p>
