@@ -24,7 +24,7 @@
   <a href="mailto:cabduali@example.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/cabduali" target="_blank">
+  <a href="https://linkedin.com/in/Abdullahi Dirie" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://personal-portfolio-3feq2180w-cabdualis-projects.vercel.app" target="_blank">
