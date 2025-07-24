@@ -10,9 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=cabduali&width=400" alt="cabduali" />
   </a> 
 </p>
-
 <br/>
-
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I’m currently working on MERN stack projects<br>
